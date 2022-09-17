@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdacityProject"
+    },
+    {
+        "ParameterKey": "AMItoUse",
+        "ParameterValue": "ami-047a51fa27710816e"
+    },
+    {
+        "ParameterKey": "SubnetForServer",
+        "ParameterValue": "subnet-037170727e36c79bb"
+    }
+]
